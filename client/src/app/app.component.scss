@@ -1,0 +1,52 @@
+
+:host{
+direction: rtl;
+#out{
+margin-top: 1rem;
+width: 50%;
+color:#ff4081;
+font-weight: bold;
+font-size: 2rem;
+margin-bottom: 1rem;
+}
+#out:hover{
+  margin-top: 1rem;
+  width: 50%;
+  background-color: #ff4081;
+  color: white;
+    font-weight: bold;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  }
+  #out:active{
+    margin-top: 1rem;
+    width: 50%;
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 1rem; 
+    background-color: #ff4081;
+  color: white;
+    }
+.in{
+  width: 100%;
+  text-align: center;
+  border-bottom:#ff4081 solid 3px ;
+  font-size: 2rem;
+}
+.in:hover{
+background-color: #ff4081;
+  color: white;
+}
+.nav{
+  color: #ff4081;
+}
+.nav:active{
+  background-color: #ff4081;
+  color: white;
+}
+.nav:hover{
+  background-color: #ff4081;
+  color: white;
+}
+
+}

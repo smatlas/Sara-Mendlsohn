@@ -1,0 +1,15 @@
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\IRepositories\bin\Debug\net5.0\IRepositories.deps.json
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\IRepositories\bin\Debug\net5.0\IRepositories.dll
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\IRepositories\bin\Debug\net5.0\ref\IRepositories.dll
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\IRepositories\bin\Debug\net5.0\IRepositories.pdb
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\IRepositories\bin\Debug\net5.0\DAL.dll
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\IRepositories\bin\Debug\net5.0\DAL.pdb
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\IRepositories\obj\Debug\net5.0\IRepositories.csproj.AssemblyReference.cache
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\IRepositories\obj\Debug\net5.0\IRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\IRepositories\obj\Debug\net5.0\IRepositories.AssemblyInfoInputs.cache
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\IRepositories\obj\Debug\net5.0\IRepositories.AssemblyInfo.cs
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\IRepositories\obj\Debug\net5.0\IRepositories.csproj.CoreCompileInputs.cache
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\IRepositories\obj\Debug\net5.0\IRepositories.csproj.CopyComplete
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\IRepositories\obj\Debug\net5.0\IRepositories.dll
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\IRepositories\obj\Debug\net5.0\ref\IRepositories.dll
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\IRepositories\obj\Debug\net5.0\IRepositories.pdb

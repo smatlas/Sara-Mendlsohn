@@ -1,0 +1,17 @@
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\Logic\bin\Debug\net5.0\Logic.deps.json
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\Logic\bin\Debug\net5.0\Logic.dll
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\Logic\bin\Debug\net5.0\ref\Logic.dll
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\Logic\bin\Debug\net5.0\Logic.pdb
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\Logic\bin\Debug\net5.0\DAL.dll
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\Logic\bin\Debug\net5.0\DAL.pdb
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\Logic\obj\Debug\net5.0\Logic.csproj.AssemblyReference.cache
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\Logic\obj\Debug\net5.0\Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\Logic\obj\Debug\net5.0\Logic.AssemblyInfoInputs.cache
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\Logic\obj\Debug\net5.0\Logic.AssemblyInfo.cs
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\Logic\obj\Debug\net5.0\Logic.csproj.CoreCompileInputs.cache
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\Logic\obj\Debug\net5.0\Logic.csproj.CopyComplete
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\Logic\obj\Debug\net5.0\Logic.dll
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\Logic\obj\Debug\net5.0\ref\Logic.dll
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\Logic\obj\Debug\net5.0\Logic.pdb
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\Logic\bin\Debug\net5.0\IRepositories.dll
+C:\Users\ALTER\Desktop\Sara mendlsohn\projectServer\Logic\bin\Debug\net5.0\IRepositories.pdb

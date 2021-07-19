@@ -1,0 +1,24 @@
+<form [formGroup]="childGroup">
+
+  <span>
+    <mat-form-field>
+      <input matInput placeholder="שם" formControlName="name" required>
+      <span *ngIf="childGroup.get('name')?.invalid" [innerText]="'שדה חובה'"></span>
+    </mat-form-field>
+  </span>
+  <span class="picker">
+    <mat-form-field>
+      <input matInput [matDatepicker]="picker" placeholder="תאריך לידה" formControlName="birthDate" required>
+      <span *ngIf="childGroup.get('birthDate')?.invalid" [innerText]="'שדה חובה'"></span>
+
+      <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+      <mat-datepicker #picker></mat-datepicker>
+    </mat-form-field>
+  </span>
+  <span>
+    <mat-form-field>
+      <input matInput placeholder="מספר זהות" formControlName="ID" required>
+      <span *ngIf="childGroup.get('ID')?.invalid" [innerText]="'שדה חובה'"></span>
+    </mat-form-field>
+  </span>
+</form>

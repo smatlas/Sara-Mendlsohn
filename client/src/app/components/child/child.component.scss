@@ -1,0 +1,16 @@
+:host {
+    form {
+        display: flex;
+        mat-form-field {
+            width: 7rem;
+        }
+        span {
+            margin-left: 0.5rem;
+            
+        }
+        .picker {
+            margin-top: 0rem;
+           
+        }
+    }
+}

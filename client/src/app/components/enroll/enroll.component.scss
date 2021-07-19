@@ -1,0 +1,90 @@
+:host {
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  height: 90%;
+  width: 100%;
+  cursor: pointer;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  .main {
+    display: flex;
+    flex: 1 1 auto;
+   
+
+    > form {
+      margin: 0.3rem;
+      display: flex;
+      flex-direction: column;
+      flex: 1 1 auto;
+      border: solid 4px #ff4081;
+      // border-radius: 50px;
+      align-items: center;
+      justify-self: center;
+      header {
+        h3 {
+          font-weight: bold;
+          font-family: Tahoma;
+          color:#ff4081
+        }
+      }
+      .main-section {
+        display: flex;
+        flex-direction: column;
+        width: 61rem;
+        height: 29rem;
+        background-color: #f3d2d2;
+        align-items: center;
+        justify-self: center;
+        div {
+          display: flex;
+          flex-direction: row;
+          margin-bottom: 0.5rem;
+          font-family: Tahoma;
+          mat-form-field {
+            margin-left: 3rem;
+          }
+        }
+        .example-button {
+          display: flex;
+          flex-direction: column !important;
+          .children {
+            margin-top: 2rem;
+            max-height: 10rem;
+            overflow: hidden;
+            overflow-y: auto;
+          }
+        }
+      }
+    }
+  }
+  .example-user-input {
+    margin-right: 8px;
+  }
+  .example-radio-group {
+    display: flex;
+    flex-direction: row;
+    margin: 15px 0;
+  }
+
+  .example-radio-button {
+    margin: 5px;
+  }
+}
+.addchild {
+  top: 23.5rem;
+  position: absolute;
+  display: inline;
+  right: 40rem;
+  color: #ff4081;
+    font-weight: bold;
+}
+
+.mat-radio-button.mat-accent .mat-radio-inner-circle, .mat-radio-button.mat-accent .mat-radio-ripple .mat-ripple-element:not(.mat-radio-persistent-ripple), .mat-radio-button.mat-accent.mat-radio-checked .mat-radio-persistent-ripple, .mat-radio-button.mat-accent:active .mat-radio-persistent-ripple {
+  background-color: #f3eef0;
+}
+.send{
+  position: absolute;
+  display: inline;
+  top: 36rem;
+  right:40rem;
+}

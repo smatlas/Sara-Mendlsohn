@@ -1,0 +1,17 @@
+<mat-button-toggle-group #group="matButtonToggleGroup" class="in">
+
+    <span id="out" [routerLink]="['/rules']" >
+
+    <mat-button-toggle value="left" aria-label="Text align left"  [innerText]="'הוראות למילוי הטופס'" class="nav">
+        
+    </mat-button-toggle>
+</span>
+<span id="out"[routerLink]="['/enroll']">
+    <mat-button-toggle value="center" aria-label="Text align center"  [innerText]="'טופס מילוי פרטים'" class="nav">
+      
+    </mat-button-toggle>
+</span>
+
+</mat-button-toggle-group>
+
+<router-outlet></router-outlet>
